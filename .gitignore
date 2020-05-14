@@ -1,4 +1,8 @@
 /bin/
+<<<<<<< HEAD
 /settings/
+=======
+/.settings/
+>>>>>>> branch 'master' of https://github.com/Rimki/KPC_AcornAcademy
 .classpath
 .project
