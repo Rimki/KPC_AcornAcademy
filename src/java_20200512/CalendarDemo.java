@@ -18,7 +18,7 @@ public class CalendarDemo {
 		String message = null;
 		int[] monthArray = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
-		if (year % 4 == 0) {
+		if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) {
 			monthArray[1] = 29;
 		}
 
