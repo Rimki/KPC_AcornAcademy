@@ -6,6 +6,7 @@ import java.util.function.Predicate;
 
 public class MemberManagementDemo {
 
+	//5월 22일 숙제 콘솔프로그램만들기
 	private ArrayList<Member> list = new ArrayList<Member>();
 
 	public static void main(String[] args) {
