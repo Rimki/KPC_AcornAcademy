@@ -5,7 +5,7 @@ public class Homework_Prime {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-//		숙제: 1부터 100까지의 소수구하기
+//		5월 14일 숙제: 1부터 100까지의 소수구하기
 
 		int num;
 		boolean isPrime = false;
